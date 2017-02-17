@@ -1,6 +1,13 @@
 # About
-This repository is based in the online book http://neuralnetworksanddeeplearning.com by Michael Nielsen 
-All the handwritten digist can be found in mnist.pkl.gz, but here is working in python 3.x is support by https://github.com/MichalDanielDobrzanski/DeepLearningPython35  
+This repository is based in the book http://neuralnetworksanddeeplearning.com by Michael Nielsen.
+
+All the handwritten digits data sets are in mnist.pkl.gz.
+
+This is la update version working in python 3.52 writed by Daniel Dobrzanski
+
+ <html><a href = "https://github.com/MichalDanielDobrzanski/DeepLearningPython35  ">here</html>
+
+
 
 just go along in the next line in your python shell.
 
