@@ -5,7 +5,7 @@ All the handwritten digits data sets are in mnist.pkl.gz.
 
 This is la update version working in python 3.52 writed by Daniel Dobrzanski
 
- <html><a href = "https://github.com/MichalDanielDobrzanski/DeepLearningPython35  ">here</html>
+ <html><a href = "https://github.com/MichalDanielDobrzanski/DeepLearningPython35  ">here</a></html>
 
 
 
